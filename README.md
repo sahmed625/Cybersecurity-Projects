@@ -4,6 +4,7 @@ Overview
 Welcome to my GitHub repository! I'm a passionate and aspiring cybersecurity professional dedicated to honing my skills in the dynamic field of cybersecurity. This repository serves as a comprehensive portfolio showcasing the various projects I've undertaken to demonstrate my expertise and growth in the realm of cybersecurity.
 
 Projects
+
 Project 1: Wireshark for Beginners: Capture Packets
 
     Description: A guided project offered through Coursera, this project allowed me to use Wireshark in a virtual environment to capture and analyze network traffic.
