@@ -11,6 +11,12 @@ Project 1: Wireshark for Beginners: Capture Packets
     Technologies Used: Wireshark
     Highlights: Am now comfortable using Wireshark in variety of network environments.
 
+Project 2: Analyze Network Traffic with TCPDump
+
+    Description: A guided project offered through Coursera, this project allowed me to use tcpdump in a virtual Linux environment to capture and analyze network traffic.
+    Technologies Used: tcpdump, command line, Wireshark
+    Highlights: Am now comfortable using tcpdump in variety of network environments.
+
 How to Navigate
 
     Each project is organized in its respective folder for easy access.
@@ -22,6 +28,6 @@ Feedback and Collaboration
 I welcome feedback and collaboration opportunities. If you have suggestions, questions, or would like to collaborate on a project, don't hesitate to reach out.
 
     Email: sahmed625@gmail.com
-    LinkedIn: Your LinkedIn Profile
+    LinkedIn: https://www.linkedin.com/in/samirahmed25/
 
 Thank you for visiting my GitHub portfolio, and I look forward to sharing and learning together in the exciting world of cybersecurity!
