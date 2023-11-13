@@ -1,7 +1,11 @@
 # Cybersecurity-Projects
 Overview
 
-Welcome to my GitHub repository! I'm a passionate and aspiring cybersecurity professional dedicated to honing my skills in the dynamic field of cybersecurity. This repository serves as a comprehensive portfolio showcasing the various projects I've undertaken to demonstrate my expertise and growth in the realm of cybersecurity.
+Welcome to my GitHub repository! 
+
+My name is Samir. I am driven and passionate about the governance, risk, and compliance aspect of organizational cybersecurity. I enjoy working with security tools and analyzing and solving complex problems.
+
+This repository serves as a comprehensive portfolio showcasing the various projects I've undertaken to demonstrate my expertise and growth in the realm of cybersecurity.
 
 Projects
 
