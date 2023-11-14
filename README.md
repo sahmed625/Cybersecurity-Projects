@@ -21,6 +21,14 @@ Project 2: Analyze Network Traffic with TCPDump
     Technologies Used: tcpdump, command line, Wireshark
     Highlights: Am now comfortable using tcpdump in variety of network environments.
 
+Project 3: Conduct a security audit
+
+    Description: In this project, I reviewed the scope, goals, and risk assessment report details for Botium Toys and used the information to run through a controls and compliance checklist. By reviewing the risk assessment
+    report, I was able to identify signs of a weak security posture and provide recommendations on how to strengthen that posture.
+    Technologies Used: Security audit process
+    Highlights: Am now comfortable reviewing a risk assessment report and outlining the scope and goals for such a report. 
+
+
 How to Navigate
 
     Each project is organized in its respective folder for easy access.
